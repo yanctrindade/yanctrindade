@@ -49,7 +49,7 @@ Hi, I'm Yan 💻.
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/trindadeyan/"><img src="https://img.shields.io/badge/-Victor%20Zaffalon%20Marra-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:trindade.yan@gmail.com"><img src="https://img.shields.io/badge/-zaffalonvictor@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/yanctrindade"><img src="https://img.shields.io/badge/-@vzaffalon-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/trindadeyan/"><img src="https://img.shields.io/badge/-Yan%20Correa%20Trindade-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:trindade.yan@gmail.com"><img src="https://img.shields.io/badge/-trindade.yan@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/yanctrindade"><img src="https://img.shields.io/badge/-@yanctrindade-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
