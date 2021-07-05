@@ -10,7 +10,7 @@ Hi, I'm Yan 💻.
 # 📖 Systems design and protocol oriented programming
 ```
 <code>
-  <a href="https://www.linkedin.com/in/victor-zaffalon-marra-18489a115/?locale=en_US" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/733/733561.svg"></a>
+  <a href="https://www.linkedin.com/in/trindadeyan/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/733/733561.svg"></a>
 </code>
 
 ### 👨🏻‍💻 &nbsp;About Me
@@ -49,7 +49,7 @@ Hi, I'm Yan 💻.
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/victor-zaffalon-marra-18489a115/?locale=en_US"><img src="https://img.shields.io/badge/-Victor%20Zaffalon%20Marra-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/trindadeyan/"><img src="https://img.shields.io/badge/-Victor%20Zaffalon%20Marra-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:trindade.yan@gmail.com"><img src="https://img.shields.io/badge/-zaffalonvictor@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/yanctrindade"><img src="https://img.shields.io/badge/-@vzaffalon-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
