@@ -3,7 +3,7 @@
 ```diff
 Hi, I'm Yan 💻.
 
-@@I'm a iOS Developer Developer@@
+@@I'm a iOS Developer@@
 + Living in Brasília, Brazil 🇧🇷.
 - I have a bachelors degree in computer engineering
 ! I love working with Swift, Obj-C, Java and Kotlin.
