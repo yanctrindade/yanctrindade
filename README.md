@@ -3,8 +3,8 @@
 ```diff
 Hi, I'm Yan 💻.
 
-@@I'm a iOS Developer and 28 years old@@
-+ Living in Brasília, Brazil 🇧🇷.
+@@I'm a iOS Developer@@
++ 28 years old. Living in Brasília, Brazil 🇧🇷.
 - I have a bachelors degree in computer engineering
 ! I love working with Swift, Obj-C, Java and Kotlin.
 # 📖 Systems design and protocol oriented programming
