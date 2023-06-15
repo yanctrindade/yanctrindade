@@ -1,12 +1,12 @@
 <img align="right" height="200" src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif"/>
 
 ```diff
-Hi, I'm Yan 💻.
+Hi, I'm Yan Trindade 💻.
 
-@@I'm a iOS Developer@@
-+ 29 years old. Living in Brasília, Brazil 🇧🇷.
+@@I'm a Senior iOS Engineer@@
++ 30 years old. Living in Brasília, Brazil 🇧🇷.
 - I have a bachelors degree in computer engineering
-! I love working with Swift, Obj-C, Java and Kotlin.
+! I love working with Swift and Swift UI.
 # 📖 Systems design and protocol oriented programming
 ```
 <code>
