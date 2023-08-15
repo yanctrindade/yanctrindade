@@ -1,6 +1,6 @@
-<img align="right" height="200" src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif"/>
+<img align="right" height="200" width="300" src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif"/>
 
-```diff
+```
 Hi, I'm Yan Trindade 💻.
 
 @@I'm a Senior iOS Engineer@@
@@ -9,9 +9,6 @@ Hi, I'm Yan Trindade 💻.
 ! I love working with Swift and Swift UI.
 # 📖 Systems design and protocol oriented programming
 ```
-<code>
-  <a href="https://www.linkedin.com/in/trindadeyan/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/733/733561.svg"></a>
-</code>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -19,8 +16,9 @@ Hi, I'm Yan Trindade 💻.
 🎓 &nbsp;I have a bachelors degree in Computer Engineering at the University of Brasilia.\
 🌱 &nbsp;I'm on track for learning more about SOLID, Clean Code, Systems Design, and Advanced Mobile Architecture.\
 ✉️ &nbsp;You can shoot me an email at trindade.yan@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Resume](https://drive.google.com/file/d/1RF_lSjUVv9cgR7wfH4WWHTn7VvRWnUMu/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
-
+📄 &nbsp;I'm open to feedback and suggestions!
+<!---📄 &nbsp;Please have a look at my [Resume](https://drive.google.com/file/d/1RF_lSjUVv9cgR7wfH4WWHTn7VvRWnUMu/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+-->
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
