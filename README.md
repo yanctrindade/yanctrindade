@@ -40,7 +40,7 @@ Hi, I'm Yan Trindade 💻.
 
 <p align="center">
 <a href="https://github.com/yanctrindade">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yanctrindade&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yanctrindade&theme=algolia&include_all_commits=true&count_private=true&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=yanctrindade&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
